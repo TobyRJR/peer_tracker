@@ -41,4 +41,4 @@ config/secrets.yml
 
 #Added by TR
 #Ignore database config once password is set
-
+config/database.yml
