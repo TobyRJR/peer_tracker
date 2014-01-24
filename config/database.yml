@@ -11,9 +11,9 @@
 development:
   adapter: mysql2
   encoding: utf8
-  database: peer_tracker_development
+  database: peertracker_dev
   pool: 5
-  username: root
+  username: r4r
   password:
   socket: /var/lib/mysql/mysql.sock
 
